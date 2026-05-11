@@ -3,9 +3,9 @@
 
 I'm PuMiao, a NLP engineer in Shopee Inc., working on developing large language models. 
 
-Prior to that, I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I received my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
+Previously, I conducted my graduate research at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences. Under the supervision of Prof. Xiaolong Zheng, my research focused on natural language processing. I obtained my Master’s degree in June 2021 from the School of Artificial Intelligence, University of the Chinese Academy of Sciences.
 
-My research interests are in **Generative AI**. Moreover, my broader interests cover Contrastive Learning, multi-modal models, long context, pretraining and continual pretraining in large language models as well as their applications.
+My primary research interests lie in the fundamental capabilities of large language models and model evaluation. My broader research scope also covers contrastive learning, multimodal models, long-context modeling, pretraining and continual pretraining of large language models, along with their practical applications.
 
 Coding is probably my favorite thing. If you have anything else you want to know, please drop me an [email](mailto:pu.miao@foxmail.com), or comment a message on my [homepage](https://pumiao.notion.site/).
 
