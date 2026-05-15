@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;
             height: 140px;  /* 和第一行行高完全一致 */
             flex-wrap: nowrap; overflow-x: auto; padding: 0 10px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nursery42&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
        style="height: 100%; width: 40%; flex-shrink: 0; object-fit: contain;"/>
   <a href="https://github.com/enze5088">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nursery42&theme=react-dark&hide_border=true" 
          style="height: 100%; width: 55%; flex-shrink: 0; object-fit: contain; max-width: 140px;"/> 
   </a>
 </div>
